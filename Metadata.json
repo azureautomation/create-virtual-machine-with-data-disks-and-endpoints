@@ -1,0 +1,20 @@
+{
+    "Author": "michaelwasham",
+    "ContentSize": 1899,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-virtual-machine-with-data-disks-and-endpoints/master/new-custom-vm.ps1",
+    "DownloadCount": 1638,
+    "Id": "Create-Virtual-Machine-3391c8be",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 555,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2013-1-4T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This example shows how to script the provisioning of a single Windows Azure Virtual Machine that has two additional data disks and two network endpoints opened up on boot.\u00a0This script\u00a0could easily be modified to add multiple virtual machines as part of a more complex deployment.",
+    "Title": "Create Virtual Machine with Data Disks and Endpoints",
+    "UpdatedDate": "2013-1-4T00:00:00",
+    "Url": "https://github.com/azureautomation/create-virtual-machine-with-data-disks-and-endpoints",
+    "UserTags": "IaaS, Windows Azure Virtual Machines"
+}
